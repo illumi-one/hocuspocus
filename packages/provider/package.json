@@ -1,7 +1,7 @@
 {
-  "name": "@hocuspocus/provider",
+  "name": "@illumi-one/hocuspocusprovider",
   "version": "2.15.0",
-  "description": "hocuspocus provider",
+  "description": "illumi yjs provider",
   "homepage": "https://hocuspocus.dev",
   "keywords": [
     "hocuspocus",
